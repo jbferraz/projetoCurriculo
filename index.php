@@ -11,6 +11,14 @@ and open the template in the editor.
     </head>
     <body>
         <a href="jair.php">Jair</a>
+        <a href="alyson.php">Alyson</a>
+        <a href="anderson.php">Anderson</a>
+        <a href="claiton.php">Claiton</a>
+        <a href="cleyson.php">Cleyson</a>
+        <a href="eduardo.php">Eduardo</a>
+        <a href="lucas.php">Lucas</a>
+        <a href="luzardo.php">Luzardo</a>
+        <a href="teofilo.php">Teófilo</a>
         <?php
         // put your code here
         ?>
