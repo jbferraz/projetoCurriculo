@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <h1>Luzardo</h1>
         <p>
-           VAmos pescar no dumingo-feira.
+           O Clayton é IDIOTA!
         </p>
         <p>
             <a href="index.php">Voltar</a>
