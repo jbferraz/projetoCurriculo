@@ -10,14 +10,13 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h1>Jair</h1>
+        <h1>Claiton</h1>
         <p>
-            Não entendi nada do que estava escrito aqui.
+            Não entendi nada saporra. Isto é coisa pra louco!
         </p>
         <p>
             <a href="index.php">Voltar</a>
         </p>
-        
         <?php
         // put your code here
         ?>
